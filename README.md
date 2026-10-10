@@ -56,3 +56,7 @@ Elden Ring · Hearthstone · Expedition 33 · Star Wars Jedi
   <img src="pics/travel5.jpeg" width="24%"/>
   <img src="pics/travel7.jpeg" width="24%"/>
 </p>
+
+<br>
+
+[**Know more →**](https://joaodavil4.github.io/html-johnpage/)
